@@ -6,7 +6,10 @@
       "dateNaissance": "1998-02-11",
       "photo": "default_1.jpg",
       "description": "voici une description 1",
-      "visible": true
+      "visible": true,
+      "likes": [],
+      "pins": [],
+      "snap":"snap1"
     },
     {
       "id": 2,
@@ -14,7 +17,10 @@
       "dateNaissance": "1995-11-22",
       "photo": "default_2.jpg",
       "description": "voici une description pour le second default profile 2",
-      "visible": true
+      "visible": true,
+      "likes": [],
+      "pins": [],
+      "snap":"snap2"
     },
     {
       "id": 3,
@@ -22,7 +28,10 @@
       "dateNaissance": "1995-11-22",
       "photo": "default_1.jpg",
       "description": "voici une description pour le second default profile 3",
-      "visible": true
+      "visible": true,
+      "likes": [],
+      "pins": [],
+      "snap":"snap3"
     },
     {
       "id": 4,
@@ -30,7 +39,10 @@
       "dateNaissance": "1995-11-22",
       "photo": "default_2.jpg",
       "description": "voici une description pour le second default profile 4",
-      "visible": true
+      "visible": true,
+      "likes": [],
+      "pins": [],
+      "snap":"snap4"
     },
     {
       "id": 5,
@@ -38,7 +50,10 @@
       "dateNaissance": "1995-11-22",
       "photo": "default_1.jpg",
       "description": "voici une description pour le second default profile 5",
-      "visible": true
+      "visible": true,
+      "likes": [],
+      "pins": [],
+      "snap":"snap5"
     },
     {
       "id": 6,
@@ -46,7 +61,10 @@
       "dateNaissance": "1995-11-22",
       "photo": "default_2.jpg",
       "description": "voici une description pour le second default profile 6",
-      "visible": true
+      "visible": true,
+      "likes": [],
+      "pins": [],
+      "snap":"snap6"
     }
   ],
   "utilisateur": [
@@ -60,10 +78,12 @@
       "dateNaissance": "2000-12-08",
       "likes": [],
       "pins": [],
-      "id": 1
+      "id": 1,
+      "visible": true
     },
     {
       "id": 2,
+      "visible": true,
       "email": "second@test.fr",
       "pseudo": "secondo",
       "motDePasse": "mdp",
@@ -80,6 +100,7 @@
     },
     {
       "email": "test2@test.fr",
+      "visible": true,
       "pseudo": "test2",
       "description": "c'est la nouvelle desc",
       "motDePasse": "password",
@@ -92,6 +113,7 @@
     },
     {
       "email": "tungronaz@aled.mastu.loat.cbonpourvous.nz",
+      "visible": true,
       "pseudo": "danielouuu",
       "motDePasse": "danielou",
       "snap": "loudaniel",
