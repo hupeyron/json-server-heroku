@@ -18,7 +18,7 @@
       "photo": "default_2.jpg",
       "description": "voici une description pour le second default profile 2",
       "visible": true,
-      "likes": [],
+      "likes": [1],
       "pins": [],
       "snap":"snap2"
     },
