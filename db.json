@@ -58,6 +58,8 @@
       "snap": "el_pinolero",
       "photo": "C:\\fakepath\\hugo_peyron.png",
       "dateNaissance": "2000-12-08",
+      "likes": [],
+      "pins": [],
       "id": 1
     },
     {
@@ -84,6 +86,8 @@
       "snap": "test11111111",
       "photo": "C:\\fakepath\\meme11.PNG",
       "dateNaissance": "25-01-2003",
+      "likes": [],
+      "pins": [],
       "id": 4
     },
     {
